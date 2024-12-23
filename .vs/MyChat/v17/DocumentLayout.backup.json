@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ad0rfin\\Desktop\\C# \u041A\u0443\u0440\u0441\\hw74\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5988D1B-27CB-4F43-AE2A-EC04DD10FA88}|MyChat\\MyChat.csproj|c:\\users\\ad0rfin\\desktop\\c# \u043A\u0443\u0440\u0441\\hw74\\mychat\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5988D1B-27CB-4F43-AE2A-EC04DD10FA88}|MyChat\\MyChat.csproj|solutionrelative:mychat\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD99896B-DE9C-43A1-9184-7C84310844C9}|TestProject1\\TestProject1.csproj|c:\\users\\ad0rfin\\desktop\\c# \u043A\u0443\u0440\u0441\\hw74\\testproject1\\chatcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD99896B-DE9C-43A1-9184-7C84310844C9}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\chatcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5988D1B-27CB-4F43-AE2A-EC04DD10FA88}|MyChat\\MyChat.csproj|c:\\users\\ad0rfin\\desktop\\c# \u043A\u0443\u0440\u0441\\hw74\\mychat\\repositories\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5988D1B-27CB-4F43-AE2A-EC04DD10FA88}|MyChat\\MyChat.csproj|solutionrelative:mychat\\repositories\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5988D1B-27CB-4F43-AE2A-EC04DD10FA88}|MyChat\\MyChat.csproj|c:\\users\\ad0rfin\\desktop\\c# \u043A\u0443\u0440\u0441\\hw74\\mychat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5988D1B-27CB-4F43-AE2A-EC04DD10FA88}|MyChat\\MyChat.csproj|solutionrelative:mychat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\ad0rfin\\Desktop\\C# \u041A\u0443\u0440\u0441\\hw74\\MyChat\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "MyChat\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\ad0rfin\\Desktop\\C# \u041A\u0443\u0440\u0441\\hw74\\MyChat\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "MyChat\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswCkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:49:34.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMessageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ad0rfin\\Desktop\\C# \u041A\u0443\u0440\u0441\\hw74\\MyChat\\Repositories\\IMessageRepository.cs",
+              "RelativeDocumentMoniker": "MyChat\\Repositories\\IMessageRepository.cs",
+              "ToolTip": "C:\\Users\\ad0rfin\\Desktop\\C# \u041A\u0443\u0440\u0441\\hw74\\MyChat\\Repositories\\IMessageRepository.cs",
+              "RelativeToolTip": "MyChat\\Repositories\\IMessageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:37:07.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ad0rfin\\Desktop\\C# \u041A\u0443\u0440\u0441\\hw74\\MyChat\\Program.cs",
+              "RelativeDocumentMoniker": "MyChat\\Program.cs",
+              "ToolTip": "C:\\Users\\ad0rfin\\Desktop\\C# \u041A\u0443\u0440\u0441\\hw74\\MyChat\\Program.cs",
+              "RelativeToolTip": "MyChat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:19:22.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ad0rfin\\Desktop\\C# \u041A\u0443\u0440\u0441\\hw74\\TestProject1\\ChatControllerTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\ChatControllerTests.cs",
+              "ToolTip": "C:\\Users\\ad0rfin\\Desktop\\C# \u041A\u0443\u0440\u0441\\hw74\\TestProject1\\ChatControllerTests.cs*",
+              "RelativeToolTip": "TestProject1\\ChatControllerTests.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:18:07.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
